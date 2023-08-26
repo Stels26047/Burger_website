@@ -18,9 +18,9 @@ body{
     height: 100vh;
 }
 
-/* Размер экрана с 400px по 530px */
+/* Размер экрана с 350px по 530px */
 
-@media (min-device-width:400px) and (max-device-width:530px){
+@media (min-device-width:350px) and (max-device-width:530px){
 /* Хедер сайта */
 ul{
     list-style:none;
