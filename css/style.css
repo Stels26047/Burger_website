@@ -195,6 +195,7 @@ a{
     background-color: #EDA418;
     width: 100%;
     text-align: center;
+    height:100vh;
 }
 .nav_menu_logo{
     float: left;
@@ -274,12 +275,11 @@ header{
 
 .header_inner{
     text-align: center;
+    padding-right: 16.5%;
+    padding-left: 16.5%;
 }
 
 .hero_list-title{
-    display: flex;
-    position: relative;
-    right:28%;
     margin-top: 10px;
 }
 
