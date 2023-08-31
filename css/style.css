@@ -68,7 +68,6 @@ a{
    border-radius: 40px;
     border: none;
     float: right;
-    position: relative;
 }
 
 
@@ -440,8 +439,6 @@ img{
     
     .hero_list-title{
         display: flex;
-        position: relative;
-        right:28%;
         margin-top: 10px;
     }
     
@@ -602,8 +599,6 @@ img{
     
     .hero_list-title{
         display: flex;
-        position: relative;
-        right:28%;
         margin-top: 10px;
     }
     
@@ -764,8 +759,6 @@ img{
     
     .hero_list-title{
         display: flex;
-        position: relative;
-        right:28%;
         margin-top: 10px;
     }
     
